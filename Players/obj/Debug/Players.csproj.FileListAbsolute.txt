@@ -1,0 +1,6 @@
+C:\Users\j.miguel.cruz\Desktop\C#\Players\Players\bin\Debug\Players.exe.config
+C:\Users\j.miguel.cruz\Desktop\C#\Players\Players\obj\Debug\Players.csprojResolveAssemblyReference.cache
+C:\Users\j.miguel.cruz\Desktop\C#\Players\Players\bin\Debug\Players.exe
+C:\Users\j.miguel.cruz\Desktop\C#\Players\Players\bin\Debug\Players.pdb
+C:\Users\j.miguel.cruz\Desktop\C#\Players\Players\obj\Debug\Players.exe
+C:\Users\j.miguel.cruz\Desktop\C#\Players\Players\obj\Debug\Players.pdb
